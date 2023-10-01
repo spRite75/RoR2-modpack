@@ -1,0 +1,11 @@
+{
+    "name": "spRite's Modpack",
+    "version_number": "0.0.1",
+    "website_url": "https://github.com/spRite75/RoR2-modpack",
+    "description": "QoL Multiplayer Mods",
+    "dependencies": [
+        "KingEnderBrine-ProperSave-2.8.11",
+        "Constant-ine-PauseInMultiplayer-1.0.9",
+        "niwith-DropinMultiplayer-2.0.1"
+    ]
+}
